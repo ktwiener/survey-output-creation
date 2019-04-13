@@ -1,6 +1,6 @@
-.log
+*.log
 *.lst
-.sas7dbat
-.rtf
-.zip
+*.sas7dbat
+*.rtf
+*.zip
 Overview.docx
